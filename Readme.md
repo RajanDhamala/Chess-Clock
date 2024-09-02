@@ -42,7 +42,6 @@ To deploy the Chess Clock application, follow these steps:
 Build the production version:
 
 bash
-Copy code
 npm run build
 This will create an optimized build in the build folder.
 
